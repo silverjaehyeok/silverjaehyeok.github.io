@@ -764,6 +764,21 @@ $btn-mb: 0.5rem;
     -ms-user-select: none;
     user-select: none;
   }
+  
+  .site-subtitle2 {
+    font-family: Ariel !important;
+    font-size: 100%;
+    color: var(--site-subtitle-color);
+    margin-top: 0.25rem;
+    word-spacing: 1px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    font-weight: bold;
+  }
+  
+  
 
   ul {
     margin-bottom: 2rem;
