@@ -12,3 +12,10 @@
 @import 'layout/categories';
 @import 'layout/category-tag';
 @import 'variables-hook';
+
+@font-face {
+     font-family: 'MaruBuri-Regular';
+     src: url('/assets/font/MaruBuri-Regular.otf') format('woff');
+     font-weight: normal;
+     font-style: normal;
+ }
