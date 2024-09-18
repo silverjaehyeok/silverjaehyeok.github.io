@@ -2,7 +2,7 @@
 title: 팩토리 메서드(Factory Method) 
 date: 2024-09-13 
 categories: [Design Pattern, 생성패턴]
-tags: [Design Pattern]
+tags: [생성패턴]
 ---
 
 # 디자인 패턴 (Design Pattern)

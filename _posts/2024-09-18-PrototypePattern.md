@@ -2,7 +2,7 @@
 title: 프로토타입(Prototype) 
 date: 2024-09-18 
 categories: [Design Pattern, 생성패턴]
-tags: [Builder Pattern]
+tags: [생성패턴]
 ---
 ### 정의
 프로토 타입은 코드를 그들의 클래스에 의존시키지 않고 기존 객체들을 복사할 수 있도록 하는 생성 디자인 패턴이다.   

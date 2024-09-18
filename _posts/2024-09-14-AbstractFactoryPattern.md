@@ -2,7 +2,7 @@
 title: 추상 팩토리 (Abstract Factory) 
 date: 2024-09-14 
 categories: [Design Pattern, 생성패턴]
-tags: [Design Pattern]
+tags: [생성패턴]
 ---
 > 추상 팩토리(Abstract Factory 패턴은 객체 생성 디자인 패턴 중 하나로, 관련된 객체들의 군(제품군)을 생성하는   
 인터페이스를 제공한다. 이 패턴은 구체적은 클래스의 인스턴스를 직접 만들지 않고, 인터페이스를 통해 객체를  
