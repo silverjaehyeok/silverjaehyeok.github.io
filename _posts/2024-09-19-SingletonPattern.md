@@ -38,7 +38,7 @@ enum Fruit {
             case .apple(let count), .orange(let count), .banana(let count):
                 return count
             }
-        }
+    }
 }
 
 // 지속적으로 생성되고 있는 객체 
